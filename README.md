@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+![image](https://user-images.githubusercontent.com/20945836/130201742-e3dc916f-198c-4f20-9029-b86fff625cae.png)
+![image](https://user-images.githubusercontent.com/20945836/130201814-6f721df6-7da4-47c7-8fd1-49fb9b79cc62.png)
+![image](https://user-images.githubusercontent.com/20945836/130201879-fe4fa777-6220-483e-8ac9-a70a573f5797.png)
+![image](https://user-images.githubusercontent.com/20945836/130201960-0b23484a-af58-4302-8dbb-1e1e55562e62.png)
+
+Imp: Landing value from the the API sometimes it is null so replaced with NA in UI which will not filtrate on clicking False. True and False are only for Yes and No. Thanks
