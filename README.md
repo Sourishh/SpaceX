@@ -78,3 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![image](https://user-images.githubusercontent.com/20945836/130201960-0b23484a-af58-4302-8dbb-1e1e55562e62.png)
 
 Imp: Landing value from the the API sometimes it is null so replaced with NA in UI which will not filtrate on clicking False. True and False are only for Yes and No. Thanks
+
+### Lighthouse Report
+
+![image](https://user-images.githubusercontent.com/20945836/130216396-36b562bf-2b76-4ef2-a310-98ce465efc5c.png)
