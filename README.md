@@ -82,3 +82,6 @@ Imp: Landing value from the the API sometimes it is null so replaced with NA in 
 ### Lighthouse Report
 
 ![image](https://user-images.githubusercontent.com/20945836/130216396-36b562bf-2b76-4ef2-a310-98ce465efc5c.png)
+
+If you like my work you can buy me a coffee. Thanks.
+<a href="https://www.buymeacoffee.com/sourishB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
